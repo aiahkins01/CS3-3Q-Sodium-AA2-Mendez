@@ -1,4 +1,4 @@
-function respondToClick () {
+function exponentialpopulationGrowth() {
     let initialPopulation = parseFloat (prompt("Enter the value of the initial population: "));
     let rateOfGrowth = parseFloat (prompt("Enter the value of rate of growth: "));
     let timeInHours = parseFloat(prompt("Enter the value of time in hours: "));
